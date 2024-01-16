@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: maroon;
+    color: white;
+
+    .card {
+        background-color: rgba($color: #125d83, $alpha: 0.7);
+        color: white;
+    }
+}
